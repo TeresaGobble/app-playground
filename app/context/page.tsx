@@ -9,12 +9,12 @@ export default function Page() {
         <ul className="list-disc space-y-2 pl-4 text-sm text-gray-300">
           <li>
             This example uses context to share state between Client Components
-            that cross the Server/Client Component boundary.
+            that cross the Server/Client Component boundary. 
           </li>
           <li>
             Try incrementing the counter and navigating between pages. Note how
             the counter state is shared across the app even though they are
-            inside different layouts and pages that are Server Components.
+            inside different layouts and pages that are Server Components. 
           </li>
         </ul>
       </div>
